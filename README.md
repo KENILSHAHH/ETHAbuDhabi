@@ -5,3 +5,5 @@ Users can send multiple transactions in a single click and if the receiver's pre
 
 We are using HyperLane as the bridge between underlying blockchains
 
+Contracts Deployed on Gnosis Chiado Blockscout https://gnosis-chiado.blockscout.com/address/0x202554A6D3E2d657d63c4e2a097054f8B38838B5
+
